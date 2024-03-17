@@ -215,6 +215,7 @@ nav a.live:after {
   background: #f7f9fa;
   border-left: 1px solid #e4e5e7;
   border-bottom: 1px solid #e4e5e7;
+  transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -webkit-transform: rotate(-45deg);
 }
